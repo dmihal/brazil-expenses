@@ -36,32 +36,32 @@ Date,Expense,Total (R$),Payer,Category,Hayley,Antonio,Alex,Bruna,Estella,Nick,Da
 ,Uber (GIG to Búzios),554.0,Diego,,-55.4,-55.4,55.4,55.4,55.4,55.4,55.4,55.4,55.4,-277.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
 ,Sushi dinner (São Paulo),2952.2,Alex,,0.0,0.0,1845.11,-369.03,0.0,-369.03,-369.02,369.03,0.0,-369.02,-369.02,-369.02,0.0,0.0,chatgpt,Split 8 (Bruna
 ,Lunch (iFood),435.68,David,,0.0,118.21,0.0,50.05,0.0,56.19,-436.5,0.0,119.33,92.72,0.0,0.0,0.0,0.0,chatgpt,Pro-rated fees by meal price
-2025-12-28,Dinner,150.0,Tyler,Dining out,-50.0,0.0,0.0,0.0,0.0,0.0,-50.0,100.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2025-12-29,Lunch (bad assado),179.3,Nick,Dining out,-35.86,-35.86,0.0,-35.86,0.0,143.44,0.0,-35.86,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2025-12-29,Dranks,89.0,Antonio,General,0.0,59.34,0.0,0.0,0.0,0.0,-29.67,0.0,-29.67,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2025-12-30,Lunch bad oicanha,456.0,Antonio,Dining out,-65.14,390.85,0.0,-65.14,-65.15,-65.14,-65.14,-65.14,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-01,Groceries bbq 2,282.0,Antonio,Groceries,-28.2,253.8,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-01,Groceries,740.0,Antonio,Groceries,-74.0,666.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-01,Cook,300.0,Antonio,Services,-30.0,270.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-02,Boat,6500.0,Antonio,General,0.0,5777.78,-722.22,-722.22,-722.23,-722.23,-722.22,-722.22,-722.22,-722.22,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-02,Sushi (post boat),2528.94,Nick,Dining out,-252.89,-252.89,-252.9,-252.9,-252.89,2276.05,-252.89,-252.89,-252.9,-252.9,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-02,NYE reservation (dinner),3500.0,Nick,Dining out,-350.0,-350.0,-350.0,-350.0,-350.0,3150.0,-350.0,-350.0,-350.0,-350.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-03,Beach cash,130.0,Tyler,General,0.0,-130.0,0.0,0.0,0.0,0.0,0.0,130.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-03,Beach cash,100.0,Tyler,General,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,-100.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-03,Beach,530.0,Antonio,General,-75.71,454.28,0.0,-75.71,0.0,-75.71,0.0,-75.72,-75.71,-75.72,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-03,Food,201.0,Antonio,General,-20.1,180.9,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-07,Post surf lunch (7th),357.28,Nick,Groceries,0.0,-119.09,0.0,0.0,0.0,238.18,0.0,0.0,-119.09,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-07,Ifood burgers (6th),223.49,Nick,Dining out,0.0,-74.5,0.0,-74.5,0.0,149.0,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-07,Uber back from surf (7th),25.98,Nick,Groceries,0.0,-8.66,0.0,0.0,0.0,17.32,0.0,0.0,-8.66,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-07,Uber back from surf to solo,58.0,Antonio,Groceries,0.0,38.67,0.0,0.0,0.0,-19.33,0.0,0.0,-19.34,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-07,Uner back from party,75.0,Antonio,Liquor,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,-25.0,-25.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-09,Dinner Thursday (only the 5 of us),820.0,Antonio,Dining out,0.0,656.0,-164.0,-164.0,0.0,0.0,-164.0,0.0,0.0,-164.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-09,Dinner for dena,163.0,Antonio,Dining out,0.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-163.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-11,Last dinner in Rio,1175.55,Nick,Dining out,0.0,0.0,0.0,-235.11,0.0,940.44,-235.11,0.0,-235.11,-235.11,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-11,Post hike lunch (degrau),426.9,Nick,Dining out,0.0,0.0,-142.3,-142.3,0.0,284.6,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-13,Uber to library,35.96,Nick,Taxi,0.0,0.0,0.0,-11.99,0.0,23.98,0.0,0.0,0.0,-11.99,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-13,Uber: Couples abandon samba plans,26.98,Nick,Taxi,0.0,0.0,-6.75,-6.74,-6.75,20.24,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-13,Big car rental,4728.0,Nick,Car,-472.8,-472.8,-472.8,-472.8,-472.8,4255.2,-472.8,-472.8,-472.8,-472.8,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-14,Pizza for house (by Bru),362.99,Nick,Dining out,0.0,-121.0,0.0,-121.0,0.0,242.0,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-16,David buzios airbnb,8051.0,Antonio,Hotel,0.0,8051.0,0.0,0.0,0.0,0.0,-8051.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
-2026-01-16,Joe buzios airbnb,8051.0,Antonio,Hotel,0.0,8051.0,0.0,0.0,0.0,0.0,0.0,0.0,-8051.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2025-12-28,Dinner,150.0,Tyler,Dining out,50.0,-0.0,-0.0,-0.0,-0.0,-0.0,50.0,-100.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2025-12-29,Lunch (bad assado),179.3,Nick,Dining out,35.86,35.86,-0.0,35.86,-0.0,-143.44,-0.0,35.86,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2025-12-29,Dranks,89.0,Antonio,General,-0.0,-59.34,-0.0,-0.0,-0.0,-0.0,29.67,-0.0,29.67,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2025-12-30,Lunch bad oicanha,456.0,Antonio,Dining out,65.14,-390.85,-0.0,65.14,65.15,65.14,65.14,65.14,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Groceries bbq 2,282.0,Antonio,Groceries,28.2,-253.8,28.2,28.2,28.2,28.2,28.2,28.2,28.2,28.2,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Groceries,740.0,Antonio,Groceries,74.0,-666.0,74.0,74.0,74.0,74.0,74.0,74.0,74.0,74.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Cook,300.0,Antonio,Services,30.0,-270.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,Boat,6500.0,Antonio,General,-0.0,-5777.78,722.22,722.22,722.23,722.23,722.22,722.22,722.22,722.22,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,Sushi (post boat),2528.94,Nick,Dining out,252.89,252.89,252.9,252.9,252.89,-2276.05,252.89,252.89,252.9,252.9,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,NYE reservation (dinner),3500.0,Nick,Dining out,350.0,350.0,350.0,350.0,350.0,-3150.0,350.0,350.0,350.0,350.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach cash,130.0,Tyler,General,-0.0,130.0,-0.0,-0.0,-0.0,-0.0,-0.0,-130.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach cash,100.0,Tyler,General,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-100.0,-0.0,100.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach,530.0,Antonio,General,75.71,-454.28,-0.0,75.71,-0.0,75.71,-0.0,75.72,75.71,75.72,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Food,201.0,Antonio,General,20.1,-180.9,20.1,20.1,20.1,20.1,20.1,20.1,20.1,20.1,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Post surf lunch (7th),357.28,Nick,Groceries,-0.0,119.09,-0.0,-0.0,-0.0,-238.18,-0.0,-0.0,119.09,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Ifood burgers (6th),223.49,Nick,Dining out,-0.0,74.5,-0.0,74.5,-0.0,-149.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uber back from surf (7th),25.98,Nick,Groceries,-0.0,8.66,-0.0,-0.0,-0.0,-17.32,-0.0,-0.0,8.66,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uber back from surf to solo,58.0,Antonio,Groceries,-0.0,-38.67,-0.0,-0.0,-0.0,19.33,-0.0,-0.0,19.34,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uner back from party,75.0,Antonio,Liquor,-0.0,-50.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,25.0,25.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-09,Dinner Thursday (only the 5 of us),820.0,Antonio,Dining out,-0.0,-656.0,164.0,164.0,-0.0,-0.0,164.0,-0.0,-0.0,164.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-09,Dinner for dena,163.0,Antonio,Dining out,-0.0,-163.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,163.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-11,Last dinner in Rio,1175.55,Nick,Dining out,-0.0,-0.0,-0.0,235.11,-0.0,-940.44,235.11,-0.0,235.11,235.11,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-11,Post hike lunch (degrau),426.9,Nick,Dining out,-0.0,-0.0,142.3,142.3,-0.0,-284.6,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Uber to library,35.96,Nick,Taxi,-0.0,-0.0,-0.0,11.99,-0.0,-23.98,-0.0,-0.0,-0.0,11.99,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Uber: Couples abandon samba plans,26.98,Nick,Taxi,-0.0,-0.0,6.75,6.74,6.75,-20.24,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Big car rental,4728.0,Nick,Car,472.8,472.8,472.8,472.8,472.8,-4255.2,472.8,472.8,472.8,472.8,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-14,Pizza for house (by Bru),362.99,Nick,Dining out,-0.0,121.0,-0.0,121.0,-0.0,-242.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-16,David buzios airbnb,8051.0,Antonio,Hotel,-0.0,-8051.0,-0.0,-0.0,-0.0,-0.0,8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
+2026-01-16,Joe buzios airbnb,8051.0,Antonio,Hotel,-0.0,-8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
