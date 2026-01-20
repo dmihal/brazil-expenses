@@ -1,0 +1,67 @@
+Date,Expense,Total (R$),Payer,Category,Hayley,Antonio,Alex,Bruna,Estella,Nick,David,Tyler,Joseph,Diego,Kalle,Olga,Jade,Carol,Source,Notes
+,Wine (USD → BRL),306.35,Joseph,,38.29,38.29,38.29,38.29,38.29,38.29,0.0,38.29,-268.03,0.0,0.0,0.0,0.0,0.0,chatgpt,Split 8 (no David
+,Dinner (early trip),1388.8,Joseph,,173.6,173.6,173.6,173.6,173.6,173.6,0.0,173.6,-1215.2,0.0,0.0,0.0,0.0,0.0,chatgpt,Split 8 (no David
+,Beach club lunch,1870.0,Nick,,207.78,207.78,207.78,207.78,207.78,-1662.24,207.78,207.78,207.78,0.0,0.0,0.0,0.0,0.0,chatgpt,Split 9 (no Diego)
+,BBQ groceries,2025.0,Antonio,,-202.5,-1417.5,202.5,202.5,202.5,202.5,202.5,202.5,202.5,202.5,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Wine,272.0,Antonio,,-27.2,-190.4,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Side expense (Joseph + David),215.0,Antonio,,0.0,-215.0,0.0,0.0,0.0,0.0,107.5,0.0,107.5,0.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (2 people)
+,Wine (large),921.0,Joseph,,-92.1,-92.1,92.1,92.1,92.1,92.1,92.1,92.1,-460.5,92.1,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Beer,202.0,Joseph,,-20.2,-20.2,20.2,20.2,20.2,20.2,20.2,20.2,-101.0,20.2,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Small shared expense (Hayley/Nick/Bruna),196.9,Hayley,,-131.26,0.0,0.0,65.63,0.0,65.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (3 people)
+,NYE Dinner,3951.46,David,,-395.15,-395.15,395.15,395.15,395.15,395.15,-1975.75,395.15,395.15,395.15,0.0,0.0,0.0,0.0,chatgpt,Split 10. Receipt verified
+,BBQ food (Jan 1),200.0,Estella,,-20.0,-20.0,20.0,20.0,-100.0,20.0,20.0,20.0,20.0,20.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Beach (Jared Bali),1753.0,Joseph,,0.0,-584.33,584.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (3 people)
+,Movie night groceries,975.0,Joseph,,-97.5,-97.5,97.5,97.5,97.5,97.5,97.5,97.5,-487.5,97.5,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Olive oil,56.0,Alex,,-5.6,-5.6,-28.0,5.6,5.6,5.6,5.6,5.6,5.6,5.6,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Boat groceries,667.98,David,,0.0,-74.22,74.22,74.22,74.22,74.22,-445.32,74.22,74.22,74.22,0.0,0.0,0.0,0.0,chatgpt,Split 9 (excluding Hayley)
+,Empanadas,160.0,Alex,,0.0,0.0,-120.0,0.0,0.0,0.0,40.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (4 people)
+,Uber (Localiza to Airbnb),100.0,Diego,,0.0,0.0,0.0,0.0,0.0,0.0,33.33,0.0,33.33,-66.66,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (3 people)
+,Groceries (Jan 1),200.0,Diego,,-20.0,-20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,-100.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Gas (rental car),310.0,Joseph,,-31.0,-31.0,31.0,31.0,31.0,31.0,31.0,31.0,-155.0,31.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Car rental,2600.0,Joseph,,-260.0,-260.0,260.0,260.0,260.0,260.0,260.0,260.0,-1300.0,260.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Dinner at Suibi,2256.0,Diego,,0.0,-282.0,0.0,-282.0,282.0,0.0,-282.0,0.0,-282.0,846.0,0.0,0.0,0.0,0.0,chatgpt,Split 8 (no Tyler
+,Dinner at Posi,1822.0,Diego,,0.0,-260.29,0.0,-260.29,260.29,0.0,0.0,0.0,-260.29,520.58,0.0,0.0,0.0,0.0,chatgpt,Split 7 (no Tyler
+,Uber to Samba (82),82.0,Diego,,0.0,-27.33,0.0,0.0,0.0,0.0,0.0,0.0,-27.33,54.66,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (3 people)
+,Dinner for Joseph,106.69,David,,0.0,0.0,0.0,0.0,0.0,0.0,-106.69,0.0,106.69,0.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (Joseph only)
+,Group dinner,875.6,Alex,,0.0,-125.09,625.45,-125.09,0.0,-125.09,0.0,0.0,-125.09,-125.09,0.0,0.0,0.0,0.0,chatgpt,Split 7 (no Estella
+,Uber to Samba (39),39.0,Diego,,0.0,0.0,0.0,-9.75,0.0,-9.75,0.0,0.0,0.0,19.5,0.0,0.0,0.0,0.0,chatgpt,Split 4 (Bruna
+,Carol Cafe,384.0,Joseph,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,-128.0,0.0,0.0,0.0,0.0,chatgpt,Split by parts: Joe 2 parts
+,Dinner at Noa,1675.8,Alex,,0.0,0.0,1675.8,-239.4,0.0,-239.4,-239.4,0.0,-478.8,-239.4,0.0,0.0,0.0,-239.4,chatgpt,Split 7: Joe covers Carol; Alex/Diego/David/Bruna/Nick each R$ 239.40
+,Beach drinks (Terra Vista),63.0,David,,-21.0,0.0,-21.0,0.0,0.0,-21.0,84.0,0.0,0.0,0.0,0.0,0.0,-21.0,0.0,chatgpt,Intentional subset (David
+,Seafood dinner (Rio),2319.0,Diego,,0.0,0.0,-463.8,-463.8,0.0,-463.8,-463.8,0.0,-463.8,2319.0,0.0,0.0,0.0,0.0,chatgpt,Split 5
+,Beach chairs & umbrella,215.0,Diego,,0.0,0.0,-43.0,-43.0,0.0,-43.0,-43.0,0.0,-43.0,215.0,0.0,0.0,0.0,0.0,chatgpt,Split 5
+,Uber for hike,150.0,Alex,,0.0,0.0,100.0,-50.0,0.0,-50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,chatgpt,Intentional subset (3 people)
+,Bus to Búzios,139.19,David,,-13.92,-13.92,13.92,13.92,13.92,13.92,-69.6,13.92,13.92,13.92,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Uber for surf,91.07,Joseph,,0.0,-30.36,0.0,0.0,0.0,-30.36,0.0,0.0,60.72,0.0,0.0,0.0,0.0,0.0,chatgpt,Split 3 (Nick
+,Uber (GIG to Búzios),554.0,Diego,,-55.4,-55.4,55.4,55.4,55.4,55.4,55.4,55.4,55.4,-277.0,0.0,0.0,0.0,0.0,chatgpt,Split 10
+,Sushi dinner (São Paulo),2952.2,Alex,,0.0,0.0,1845.11,-369.03,0.0,-369.03,-369.02,369.03,0.0,-369.02,-369.02,-369.02,0.0,0.0,chatgpt,Split 8 (Bruna
+,Lunch (iFood),435.68,David,,0.0,118.21,0.0,50.05,0.0,56.19,-436.5,0.0,119.33,92.72,0.0,0.0,0.0,0.0,chatgpt,Pro-rated fees by meal price
+2025-12-28,Dinner,150.0,Tyler,Dining out,-50.0,0.0,0.0,0.0,0.0,0.0,-50.0,100.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2025-12-29,Lunch (bad assado),179.3,Nick,Dining out,-35.86,-35.86,0.0,-35.86,0.0,143.44,0.0,-35.86,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2025-12-29,Dranks,89.0,Antonio,General,0.0,59.34,0.0,0.0,0.0,0.0,-29.67,0.0,-29.67,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2025-12-30,Lunch bad oicanha,456.0,Antonio,Dining out,-65.14,390.85,0.0,-65.14,-65.15,-65.14,-65.14,-65.14,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Groceries bbq 2,282.0,Antonio,Groceries,-28.2,253.8,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,-28.2,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Groceries,740.0,Antonio,Groceries,-74.0,666.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,-74.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-01,Cook,300.0,Antonio,Services,-30.0,270.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,-30.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,Boat,6500.0,Antonio,General,0.0,5777.78,-722.22,-722.22,-722.23,-722.23,-722.22,-722.22,-722.22,-722.22,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,Sushi (post boat),2528.94,Nick,Dining out,-252.89,-252.89,-252.9,-252.9,-252.89,2276.05,-252.89,-252.89,-252.9,-252.9,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-02,NYE reservation (dinner),3500.0,Nick,Dining out,-350.0,-350.0,-350.0,-350.0,-350.0,3150.0,-350.0,-350.0,-350.0,-350.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach cash,130.0,Tyler,General,0.0,-130.0,0.0,0.0,0.0,0.0,0.0,130.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach cash,100.0,Tyler,General,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,-100.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Beach,530.0,Antonio,General,-75.71,454.28,0.0,-75.71,0.0,-75.71,0.0,-75.72,-75.71,-75.72,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-03,Food,201.0,Antonio,General,-20.1,180.9,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,-20.1,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Post surf lunch (7th),357.28,Nick,Groceries,0.0,-119.09,0.0,0.0,0.0,238.18,0.0,0.0,-119.09,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Ifood burgers (6th),223.49,Nick,Dining out,0.0,-74.5,0.0,-74.5,0.0,149.0,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uber back from surf (7th),25.98,Nick,Groceries,0.0,-8.66,0.0,0.0,0.0,17.32,0.0,0.0,-8.66,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uber back from surf to solo,58.0,Antonio,Groceries,0.0,38.67,0.0,0.0,0.0,-19.33,0.0,0.0,-19.34,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-07,Uner back from party,75.0,Antonio,Liquor,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,-25.0,-25.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-09,Dinner Thursday (only the 5 of us),820.0,Antonio,Dining out,0.0,656.0,-164.0,-164.0,0.0,0.0,-164.0,0.0,0.0,-164.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-09,Dinner for dena,163.0,Antonio,Dining out,0.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-163.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-11,Last dinner in Rio,1175.55,Nick,Dining out,0.0,0.0,0.0,-235.11,0.0,940.44,-235.11,0.0,-235.11,-235.11,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-11,Post hike lunch (degrau),426.9,Nick,Dining out,0.0,0.0,-142.3,-142.3,0.0,284.6,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Uber to library,35.96,Nick,Taxi,0.0,0.0,0.0,-11.99,0.0,23.98,0.0,0.0,0.0,-11.99,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Uber: Couples abandon samba plans,26.98,Nick,Taxi,0.0,0.0,-6.75,-6.74,-6.75,20.24,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-13,Big car rental,4728.0,Nick,Car,-472.8,-472.8,-472.8,-472.8,-472.8,4255.2,-472.8,-472.8,-472.8,-472.8,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-14,Pizza for house (by Bru),362.99,Nick,Dining out,0.0,-121.0,0.0,-121.0,0.0,242.0,0.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-16,David buzios airbnb,8051.0,Antonio,Hotel,0.0,8051.0,0.0,0.0,0.0,0.0,-8051.0,0.0,0.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
+2026-01-16,Joe buzios airbnb,8051.0,Antonio,Hotel,0.0,8051.0,0.0,0.0,0.0,0.0,0.0,0.0,-8051.0,0.0,0,0,0,0,splitwise,From Splitwise | Currency: BRL
