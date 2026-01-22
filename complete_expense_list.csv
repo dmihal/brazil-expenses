@@ -66,3 +66,10 @@ Date,Expense,Total (R$),Payer,Category,Hayley,Antonio,Alex,Bruna,Estella,Nick,Da
 2026-01-16,David buzios airbnb,8051.0,Antonio,Hotel,-0.0,-8051.0,-0.0,-0.0,-0.0,-0.0,8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
 2026-01-16,Joe buzios airbnb,8051.0,Antonio,Hotel,-0.0,-8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,8051.0,-0.0,-0.0,-0.0,-0.0,-0.0,splitwise,From Splitwise | Currency: BRL
 ,Rio Airbnb (6 nights),30867.0,Alex,Hotel,0.0,2670.36,-23744.11,0.0,0.0,7122.89,3789.18,0.0,3789.18,4004.53,0.0,0.0,0.0,0.0,merged_messages,Alex 1.5x (covers Estela); Nick 1.5x (covers Bruna); Inconvenience credits: Dave/Joe -12% mold; Diego/Antonio -7% share
+2026-01-16,Restaurant bill,1571.60,David,,0.00,0.00,224.51,224.51,224.51,224.51,-1347.09,-0.00,0.00,224.51,224.51,-0.00,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-16,Dinner,968.41,Tyler,,0.00,0.00,-0.00,-0.00,-0.00,-0.00,242.10,-726.31,0.00,-0.00,242.10,242.10,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-18,Receipt total conta,1806.87,Nick,,0.00,0.00,225.86,225.86,225.86,-1581.01,225.86,225.86,0.00,225.86,225.86,225.86,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-18,Tickets,198.00,Tyler,,0.00,0.00,-0.00,-0.00,-0.00,-0.00,49.50,-148.50,0.00,49.50,-0.00,49.50,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-20,Split with Nick/Bruna/Kalle/Olga/David,505.67,David,,0.00,0.00,-0.00,101.13,-0.00,101.14,-404.53,-0.00,0.00,-0.00,101.13,101.13,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-21,Bike rental,54.00,David,,0.00,0.00,-0.00,-0.00,-0.00,-0.00,-36.00,-0.00,0.00,-0.00,18.00,18.00,0.00,0.00,chatgpt_sp,from sp chat exports
+2026-01-21,Restaurant (Vista Sao Paulo),740.15,David,,0.00,0.00,-0.00,-0.00,-0.00,-0.00,-493.44,-0.00,0.00,-0.00,246.72,246.72,0.00,0.00,chatgpt_sp,from sp chat exports
