@@ -24,21 +24,21 @@ I can:
 
 To set this up cleanly, I just need a couple quick rules from you:
 
-1. **Default split:**  
+4. **Default split:**  
    Should expenses be split *equally* among the selected people unless you say otherwise?
 
-2. **Currency:**  
+5. **Currency:**  
    What currency are you using?
 
-3. **How you’ll log expenses:**  
+6. **How you’ll log expenses:**  
    For example, are you okay with a format like:  
    > “David paid 120 for dinner for Bruna, Nick, and David”
 
 Once you confirm these, we can start. You can add the first expense whenever you’re ready. 💸📊
 
-4. **user:** (2026-01-16T00:48:15.562989Z) Split this, everyone except Tyler. And it's spelled Kalle
+7. **user:** (2026-01-16T00:48:15.562989Z) Split this, everyone except Tyler. And it's spelled Kalle
 
-5. **assistant:** (2026-01-16T00:48:31.203026Z) Perfect, thanks — and noted: **Kalle** (not Kala). ✅
+8. **assistant:** (2026-01-16T00:48:31.203026Z) Perfect, thanks — and noted: **Kalle** (not Kala). ✅
 
 From the receipt, the **total is 1,571.60** and it even shows **7 people**, which matches “everyone except Tyler.”
 
@@ -54,9 +54,9 @@ Before I lock this into the ledger, I just need **one thing**:
 
 Once you tell me who paid, I’ll record it and update who owes whom.
 
-6. **user:** (2026-01-16T00:52:40.057298Z) Me
+9. **user:** (2026-01-16T00:52:40.057298Z) Me
 
-7. **assistant:** (2026-01-16T00:52:50.506448Z) Got it — **David paid.** ✅ I’ve logged this expense.
+10. **assistant:** (2026-01-16T00:52:50.506448Z) Got it — **David paid.** ✅ I’ve logged this expense.
 
 ### 🧾 Expense recorded
 - **What:** Restaurant bill  
@@ -79,22 +79,22 @@ Everyone except David owes their share to him:
 Whenever you’re ready, send the next expense like:  
 “Nick paid 300 for taxi for Alex, Kalle, and Nick” and I’ll add it.
 
-8. **system:** (2026-01-16T03:05:06.650260Z) **x1532jja** joined the group chat.
+11. **system:** (2026-01-16T03:05:06.650260Z) **x1532jja** joined the group chat.
 
-9. **user:** (2026-01-16T23:28:28.168860Z) David, Kalle, Olga, Tyler dinner total was 968.41
+12. **user:** (2026-01-16T23:28:28.168860Z) David, Kalle, Olga, Tyler dinner total was 968.41
 
-10. **assistant:** (2026-01-16T23:28:35.095672Z) Got it — I can log this one 👍  
+13. **assistant:** (2026-01-16T23:28:35.095672Z) Got it — I can log this one 👍  
 I just need a couple of quick clarifications before I add it to the ledger:
 
-1. **Who paid the 968.41?**  
-2. **Is the split equal** between **David, Kalle, Olga, and Tyler** (4 people)?  
-3. **Olga** is new — should I add her as a new group member going forward?
+14. **Who paid the 968.41?**  
+15. **Is the split equal** between **David, Kalle, Olga, and Tyler** (4 people)?  
+16. **Olga** is new — should I add her as a new group member going forward?
 
 Once you answer those, I’ll record it and update everyone’s balances.
 
-11. **user:** (2026-01-16T23:29:00.426643Z) Tyler paid, split equal
+17. **user:** (2026-01-16T23:29:00.426643Z) Tyler paid, split equal
 
-12. **assistant:** (2026-01-16T23:29:09.623326Z) Perfect 👍 I’ve logged it.
+18. **assistant:** (2026-01-16T23:29:09.623326Z) Perfect 👍 I’ve logged it.
 
 ### 🧾 Expense recorded
 - **What:** Dinner  
@@ -115,11 +115,11 @@ If you want, next I can:
 - Show the **full group balance summary**, or  
 - Log the **next expense** right away.
 
-13. **system:** (2026-01-18T01:17:17.418947Z) **pr0m3theu5** joined the group chat.
+19. **system:** (2026-01-18T01:17:17.418947Z) **pr0m3theu5** joined the group chat.
 
-14. **user:** (2026-01-18T01:18:06.979246Z) Is this working?
+20. **user:** (2026-01-18T01:18:06.979246Z) Is this working?
 
-15. **assistant:** (2026-01-18T01:18:14.920307Z) Yes ✅ it’s working!
+21. **assistant:** (2026-01-18T01:18:14.920307Z) Yes ✅ it’s working!
 
 Right now we’ve recorded **2 expenses**:
 
@@ -139,9 +139,9 @@ Right now we’ve recorded **2 expenses**:
 
 If you send the next expense, I’ll add it.
 
-16. **user:** (2026-01-18T01:19:31.623254Z) Please split this across Estella Alex College Olga Diego Tyler Bruner and Davie
+22. **user:** (2026-01-18T01:19:31.623254Z) Please split this across Estella Alex College Olga Diego Tyler Bruner and Davie
 
-17. **assistant:** (2026-01-18T01:19:41.139044Z) Got it ✅ I’ll split it across:
+23. **assistant:** (2026-01-18T01:19:41.139044Z) Got it ✅ I’ll split it across:
 
 **Estella, Alex, College, Olga, Diego, Tyler, Bruner, Davie** *(8 people)*
 
@@ -164,9 +164,9 @@ Quick check: 225.86 × 8 = 1,806.88 (1 cent over due to rounding)
 
 ➡️ **Who paid this bill?** (so I can record who everyone owes)
 
-18. **user:** (2026-01-18T01:19:51.873241Z) Nick did
+24. **user:** (2026-01-18T01:19:51.873241Z) Nick did
 
-19. **assistant:** (2026-01-18T01:20:01.609709Z) Perfect ✅ **Nick paid**.
+25. **assistant:** (2026-01-18T01:20:01.609709Z) Perfect ✅ **Nick paid**.
 
 ### 🧾 Expense recorded
 - **What:** Receipt total conta  
@@ -192,9 +192,9 @@ Quick check: 225.86 × 8 = 1,806.88 (1 cent over due to rounding)
 
 Want me to show the **full balance summary** across all expenses so far?
 
-20. **user:** (2026-01-18T01:20:22.233388Z) Kalle not college
+26. **user:** (2026-01-18T01:20:22.233388Z) Kalle not college
 
-21. **assistant:** (2026-01-18T01:20:29.354593Z) Ahh got it ✅ **Kalle, not “College.”** Thanks!
+27. **assistant:** (2026-01-18T01:20:29.354593Z) Ahh got it ✅ **Kalle, not “College.”** Thanks!
 
 I’ll update that last expense to be split across:
 
@@ -207,9 +207,9 @@ Everything else stays the same:
 
 So **Kalle owes Nick 225.86** (instead of “College”).
 
-22. **user:** (2026-01-18T19:39:49.526723Z) 198 split between Olga Tyler David and Diego, paid by Tyler for tickets
+28. **user:** (2026-01-18T19:39:49.526723Z) 198 split between Olga Tyler David and Diego, paid by Tyler for tickets
 
-23. **assistant:** (2026-01-18T19:39:59.793474Z) Logged ✅
+29. **assistant:** (2026-01-18T19:39:59.793474Z) Logged ✅
 
 ### 🧾 Expense recorded
 - **What:** Tickets  
@@ -228,13 +228,30 @@ So **Kalle owes Nick 225.86** (instead of “College”).
 
 Ready for the next expense whenever 👍
 
-24. **user:** (2026-01-20T23:43:43.760127Z) Split this with Nick bruna Kalle and Olga
+30. **user:** (2026-01-20T23:43:43.760127Z) Split this with Nick bruna Kalle and Olga
 
-25. **system:** (2026-01-21T19:25:07.338119Z) **David Mihal** renamed the group chat.
+31. **assistant:** (2026-01-20T23:44:10.000000Z) Logged ✅
 
-26. **user:** (2026-01-21T19:26:03.050378Z) Here's two receipts split with me kalle and Olga paid by me
+### 🧾 Expense recorded
+- **What:** Split with Nick, Bruna, Kalle, Olga, and David
+- **Total:** 505.67
+- **Paid by:** David
+- **Split equally between (5):** David, Nick, Bruna, Kalle, Olga
 
-27. **assistant:** (2026-01-21T19:26:26.063810Z) Got it — I’ll treat these as **two expenses**, both **paid by David**, split equally between **David, Kalle, and Olga**.
+### 💰 Split
+505.67 ÷ 5 = 101.134
+
+To keep cents clean, I’ll record:
+- **David:** 101.14
+- **Nick:** 101.14
+- **Bruna:** 101.13
+- **Kalle:** 101.13
+- **Olga:** 101.13
+32. **system:** (2026-01-21T19:25:07.338119Z) **David Mihal** renamed the group chat.
+
+33. **user:** (2026-01-21T19:26:03.050378Z) Here's two receipts split with me kalle and Olga paid by me
+
+34. **assistant:** (2026-01-21T19:26:26.063810Z) Got it — I’ll treat these as **two expenses**, both **paid by David**, split equally between **David, Kalle, and Olga**.
 
 From the receipts:
 
