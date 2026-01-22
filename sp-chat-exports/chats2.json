@@ -1,0 +1,938 @@
+{
+    "items": [
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~6969aae2a66081a0a9b2a97677f2b5fa",
+            "created_at": "2026-01-16T03:05:06.650260Z",
+            "updated_at": "2026-01-16T03:05:06.658241Z",
+            "role": "system",
+            "content": {
+                "type": "join_chat",
+                "account_user_id": "user-1fJczt53gUqSeE1F6RS3tB2X",
+                "text": "**x1532jja** joined the group chat."
+            },
+            "preview": "x1532jja joined the group chat."
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696ac99c2b3c81968c4cf27eb00b904d",
+            "created_at": "2026-01-16T23:28:28.168860Z",
+            "updated_at": "2026-01-16T23:28:28.434028Z",
+            "role": "user",
+            "account_user_id": "user-1fJczt53gUqSeE1F6RS3tB2X",
+            "content": {
+                "text": "David, Kalle, Olga, Tyler dinner total was 968.41",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "17e14565-e991-42a3-b169-6c1c0745c937",
+            "preview": "David, Kalle, Olga, Tyler dinner total was 968.41"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696ac9a318808190b6bf8867e7febaed",
+            "created_at": "2026-01-16T23:28:35.095672Z",
+            "updated_at": "2026-01-16T23:28:35.347537Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "782c04de-0908-4e9e-8c8d-cb648a8c3ec8",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768606109.224753,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Got it — I can log this one 👍  \nI just need a couple of quick clarifications before I add it to the ledger:\n\n1. **Who paid the 968.41?**  \n2. **Is the split equal** between **David, Kalle, Olga, and Tyler** (4 people)?  \n3. **Olga** is new — should I add her as a new group member going forward?\n\nOnce you answer those, I’ll record it and update everyone’s balances."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "sonic_classification_result": {
+                            "latency_ms": null,
+                            "simple_search_prob": null,
+                            "complex_search_prob": null,
+                            "no_search_prob": null,
+                            "search_complexity_decision": null,
+                            "search_decision": false,
+                            "simple_search_threshold": null,
+                            "complex_search_threshold": null,
+                            "no_search_threshold": null,
+                            "threshold_order": null,
+                            "classifier_config_name": "sonic_classifier_3cls_ev3",
+                            "classifier_config": {
+                                "model_name": "snc-pg-sw-3cls-ev3",
+                                "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+                                "classifier_config_name": "sonic_classifier_3cls_ev3",
+                                "model_config_name": "chatgpt_sonic_classifier_model_config",
+                                "disable_sonic_prefetch_classifier": true,
+                                "force_disabled_rate": 0,
+                                "force_enabled_rate": 0,
+                                "num_messages": 20,
+                                "only_user_messages": false,
+                                "remove_memory": true,
+                                "support_mm": true,
+                                "n_ctx": 2048,
+                                "max_action_length": 4,
+                                "dynamic_set_max_message_size": false,
+                                "max_message_tokens": 2000,
+                                "append_base_config": false,
+                                "no_search_token": "1",
+                                "simple_search_token": "7",
+                                "complex_search_token": "5",
+                                "simple_search_threshold": 0,
+                                "complex_search_threshold": 0.4,
+                                "no_search_threshold": 0.12,
+                                "prefetch_threshold": 0.55,
+                                "first_turn_prefetch_threshold": null,
+                                "force_search_first_turn_threshold": 1e-05,
+                                "threshold_order": [
+                                    "no_search",
+                                    "complex",
+                                    "simple"
+                                ],
+                                "passthrough_tool_calls": true,
+                                "passthrough_tool_name_exclusions": [
+                                    "genui"
+                                ],
+                                "timeout": 1
+                            },
+                            "classifier_snapshot_id": null,
+                            "decision_source": "mainline",
+                            "passthrough_tool_names": [
+                                "conversation_reader",
+                                "file_reader",
+                                "file_search",
+                                "image_gen",
+                                "post_reader",
+                                "profile",
+                                "react",
+                                "remain_quiet"
+                            ]
+                        },
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Got it — I can log this one 👍  \nI just need a couple of quick clarifications before I ad...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696ac9bc6d388195880d7a645ae2ec80",
+            "created_at": "2026-01-16T23:29:00.426643Z",
+            "updated_at": "2026-01-16T23:29:00.849149Z",
+            "role": "user",
+            "account_user_id": "user-1fJczt53gUqSeE1F6RS3tB2X",
+            "content": {
+                "text": "Tyler paid, split equal ",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "3dc7ffe1-993f-42e0-aafd-b360976f7e69",
+            "preview": "Tyler paid, split equal "
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696ac9c59f94819a98f35fb8b5238303",
+            "created_at": "2026-01-16T23:29:09.623326Z",
+            "updated_at": "2026-01-16T23:29:09.713184Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "9477ac42-b138-4dfe-85f1-3fffa7bb3518",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768606141.701112,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Perfect 👍 I’ve logged it.\n\n### 🧾 Expense recorded\n- **What:** Dinner  \n- **Total:** 968.41  \n- **Paid by:** Tyler  \n- **Split equally between (4):** David, Kalle, Olga, Tyler  \n- **Each share:** 968.41 ÷ 4 = **242.10**\n\n### 💸 Balances from this expense\n- **David → owes Tyler:** 242.10  \n- **Kalle → owes Tyler:** 242.10  \n- **Olga → owes Tyler:** 242.10  \n- **Tyler:** paid 968.41, his own share is 242.10, so he is **owed 726.31**\n\nI’ve also **added Olga** to the group going forward.\n\nIf you want, next I can:\n- Show the **full group balance summary**, or  \n- Log the **next expense** right away."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "sonic_classification_result": {
+                            "latency_ms": null,
+                            "simple_search_prob": null,
+                            "complex_search_prob": null,
+                            "no_search_prob": null,
+                            "search_complexity_decision": null,
+                            "search_decision": false,
+                            "simple_search_threshold": null,
+                            "complex_search_threshold": null,
+                            "no_search_threshold": null,
+                            "threshold_order": null,
+                            "classifier_config_name": "sonic_classifier_3cls_ev3",
+                            "classifier_config": {
+                                "model_name": "snc-pg-sw-3cls-ev3",
+                                "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+                                "classifier_config_name": "sonic_classifier_3cls_ev3",
+                                "model_config_name": "chatgpt_sonic_classifier_model_config",
+                                "disable_sonic_prefetch_classifier": true,
+                                "force_disabled_rate": 0,
+                                "force_enabled_rate": 0,
+                                "num_messages": 20,
+                                "only_user_messages": false,
+                                "remove_memory": true,
+                                "support_mm": true,
+                                "n_ctx": 2048,
+                                "max_action_length": 4,
+                                "dynamic_set_max_message_size": false,
+                                "max_message_tokens": 2000,
+                                "append_base_config": false,
+                                "no_search_token": "1",
+                                "simple_search_token": "7",
+                                "complex_search_token": "5",
+                                "simple_search_threshold": 0,
+                                "complex_search_threshold": 0.4,
+                                "no_search_threshold": 0.12,
+                                "prefetch_threshold": 0.55,
+                                "first_turn_prefetch_threshold": null,
+                                "force_search_first_turn_threshold": 1e-05,
+                                "threshold_order": [
+                                    "no_search",
+                                    "complex",
+                                    "simple"
+                                ],
+                                "passthrough_tool_calls": true,
+                                "passthrough_tool_name_exclusions": [
+                                    "genui"
+                                ],
+                                "timeout": 1
+                            },
+                            "classifier_snapshot_id": null,
+                            "decision_source": "mainline",
+                            "passthrough_tool_names": [
+                                "conversation_reader",
+                                "file_reader",
+                                "file_search",
+                                "image_gen",
+                                "post_reader",
+                                "profile",
+                                "react",
+                                "remain_quiet"
+                            ]
+                        },
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Perfect 👍 I’ve logged it.\n\n### 🧾 Expense recorded\n- **What:** Dinner  \n- **Total:** 968....",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c349d6b2481a0822fd5168dab359d",
+            "created_at": "2026-01-18T01:17:17.418947Z",
+            "updated_at": "2026-01-18T01:17:17.427383Z",
+            "role": "system",
+            "content": {
+                "type": "join_chat",
+                "account_user_id": "user-xyzjrd9tKf7ARpR5HfSlpe0u",
+                "text": "**pr0m3theu5** joined the group chat."
+            },
+            "preview": "pr0m3theu5 joined the group chat."
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c34cefab4819e8c4959ecf73aa9ea",
+            "created_at": "2026-01-18T01:18:06.979246Z",
+            "updated_at": "2026-01-18T01:18:07.242235Z",
+            "role": "user",
+            "account_user_id": "user-xyzjrd9tKf7ARpR5HfSlpe0u",
+            "content": {
+                "text": "Is this working?",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "c6308f3c-cdc8-46be-acdc-266291714858",
+            "preview": "Is this working?"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c34d6eb9c81a2b3fd974ffd7d2e43",
+            "created_at": "2026-01-18T01:18:14.920307Z",
+            "updated_at": "2026-01-18T01:18:14.991351Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "0f94b357-0aa1-4454-8625-f246154e2d09",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768699088.392166,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Yes ✅ it’s working!\n\nRight now we’ve recorded **2 expenses**:\n\n1) **Restaurant (PIU – Pinheiros)**  \n- **Paid by:** David  \n- **Total:** 1,571.60  \n- **Split 7 ways** (everyone except Tyler)  \n- **Each:** 224.51  \n➡️ Bruna, Nick, Diego, Estella, Alex, Kalle each owe **David 224.51**\n\n2) **Dinner**  \n- **Paid by:** Tyler  \n- **Total:** 968.41  \n- **Split 4 ways** (David, Kalle, Olga, Tyler)  \n- **Each:** 242.10  \n➡️ David, Kalle, Olga each owe **Tyler 242.10**\n\nIf you send the next expense, I’ll add it."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Yes ✅ it’s working!\n\nRight now we’ve recorded **2 expenses**:\n\n1) **Restaurant (PIU – Pi...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c35239f98819db984f8c49ab368f2",
+            "created_at": "2026-01-18T01:19:31.623254Z",
+            "updated_at": "2026-01-18T01:19:33.648686Z",
+            "role": "user",
+            "account_user_id": "user-xyzjrd9tKf7ARpR5HfSlpe0u",
+            "content": {
+                "text": "Please split this across Estella Alex College Olga Diego Tyler Bruner and Davie",
+                "attachments": [
+                    {
+                        "type": "file",
+                        "file_id": "CalpicoFile_482d41ca76b08191ba97a6fa8323b8c2",
+                        "file": {
+                            "id": "CalpicoFile_482d41ca76b08191ba97a6fa8323b8c2",
+                            "file_id": "CalpicoFile_482d41ca76b08191ba97a6fa8323b8c2",
+                            "status": "ROOM_PUBLISHED",
+                            "permission_set": {
+                                "permissions": {
+                                    "1|user-xyzjrd9tKf7ARpR5HfSlpe0u": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    },
+                                    "9|69698a79ea88819eb2201c780ff81d4b": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    }
+                                },
+                                "version": 1
+                            },
+                            "download_url": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6InVzZXIteHl6anJkOXRLZjdBUnBSNUhmU2xwZTB1OmZpbGVfMDAwMDAwMDA1ZWJjNzIyZmI1ZDczMzNlZjA3MjQzYzQiLCJ0cyI6IjIwNDc1IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiIyMjNhNWQwN2Q0NDMxNjQ3OTViOGQwNzYzMzA3YWM3ZWU0ZWRlNzQ0ZWM4ODRmYzQ3YTU4OTQ1ZTQyZGFiZjM2IiwidiI6IjAiLCJnaXptb19pZCI6bnVsbCwiY3MiOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+                            "mime_type": "image/jpeg",
+                            "image_metadata": {
+                                "width": 1536,
+                                "height": 2048
+                            },
+                            "name": "1000000745.jpg"
+                        }
+                    }
+                ]
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "8d51a4d7-7f83-41f9-9ed0-d65ac6faef55",
+            "preview": "Please split this across Estella Alex College Olga Diego Tyler Bruner and Davie"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c352d239c819abef77d95b7e5fe91",
+            "created_at": "2026-01-18T01:19:41.139044Z",
+            "updated_at": "2026-01-18T01:19:41.204592Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "0b14a1c9-fba2-48fd-b1b8-e8c5ef7b3c39",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768699174.22832,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Got it ✅ I’ll split it across:\n\n**Estella, Alex, College, Olga, Diego, Tyler, Bruner, Davie** *(8 people)*\n\nFrom the receipt, the **Total Conta = 1,806.87**.\n\n### 💰 Equal split\n**1,806.87 ÷ 8 = 225.86 each** (rounded to cents)\n\n### ✅ Amount each person owes (their share)\n- Estella: **225.86**\n- Alex: **225.86**\n- College: **225.86**\n- Olga: **225.86**\n- Diego: **225.86**\n- Tyler: **225.86**\n- Bruner: **225.86**\n- Davie: **225.86**\n\nQuick check: 225.86 × 8 = 1,806.88 (1 cent over due to rounding)\n\n➡️ **Who paid this bill?** (so I can record who everyone owes)"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Got it ✅ I’ll split it across:\n\n**Estella, Alex, College, Olga, Diego, Tyler, Bruner, Da...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c3537df908191827a48e3ca3074b8",
+            "created_at": "2026-01-18T01:19:51.873241Z",
+            "updated_at": "2026-01-18T01:19:52.512817Z",
+            "role": "user",
+            "account_user_id": "user-xyzjrd9tKf7ARpR5HfSlpe0u",
+            "content": {
+                "text": "Nick did",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "df3e3d08-eadd-4400-9f6e-d8da9383be3e",
+            "preview": "Nick did"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c35419c18819580751627177a231a",
+            "created_at": "2026-01-18T01:20:01.609709Z",
+            "updated_at": "2026-01-18T01:20:01.681723Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "e536b49e-2b9b-4cfe-8633-13c1bff6a191",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768699193.242243,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Perfect ✅ **Nick paid**.\n\n### 🧾 Expense recorded\n- **What:** Receipt total conta  \n- **Total:** **1,806.87**  \n- **Paid by:** **Nick**  \n- **Split between (8):** Estella, Alex, College, Olga, Diego, Tyler, Bruner, Davie\n\n### 💰 Split\n1,806.87 ÷ 8 = **225.86 each** (with 1 cent rounding)\n\n✅ I’ll assign the **1 extra cent** to the payer (Nick) so totals match.\n\n### 💸 Who owes Nick\n- Estella → **225.86**\n- Alex → **225.86**\n- College → **225.86**\n- Olga → **225.86**\n- Diego → **225.86**\n- Tyler → **225.86**\n- Bruner → **225.86**\n- Davie → **225.86**\n- Nick paid, so Nick is **owed 1,581.01** total (1,806.87 − 225.86)\n\nWant me to show the **full balance summary** across all expenses so far?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Perfect ✅ **Nick paid**.\n\n### 🧾 Expense recorded\n- **What:** Receipt total conta  \n- **T...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c35563bc4819394f97bdc8aa6d636",
+            "created_at": "2026-01-18T01:20:22.233388Z",
+            "updated_at": "2026-01-18T01:20:22.352582Z",
+            "role": "user",
+            "account_user_id": "user-xyzjrd9tKf7ARpR5HfSlpe0u",
+            "content": {
+                "text": "Kalle not college",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "543fea22-ef13-4ceb-9f34-bc0f6be2aac2",
+            "preview": "Kalle not college"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696c355d5ac8819a81ff75ebd69d1ba3",
+            "created_at": "2026-01-18T01:20:29.354593Z",
+            "updated_at": "2026-01-18T01:20:29.437315Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "ece7919e-74fe-42ab-a38a-abd10b11c56c",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768699223.56548,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Ahh got it ✅ **Kalle, not “College.”** Thanks!\n\nI’ll update that last expense to be split across:\n\n**Estella, Alex, Kalle, Olga, Diego, Tyler, Bruner, Davie** *(8 people)*\n\nEverything else stays the same:\n- **Total:** 1,806.87  \n- **Paid by:** Nick  \n- **Each share:** 225.86 (with 1-cent rounding handled)\n\nSo **Kalle owes Nick 225.86** (instead of “College”)."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Ahh got it ✅ **Kalle, not “College.”** Thanks!\n\nI’ll update that last expense to be spli...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696d370586dc8197af39f64ac7eb00ef",
+            "created_at": "2026-01-18T19:39:49.526723Z",
+            "updated_at": "2026-01-18T19:39:50.055259Z",
+            "role": "user",
+            "account_user_id": "user-1fJczt53gUqSeE1F6RS3tB2X",
+            "content": {
+                "text": "198 split between Olga Tyler David and Diego, paid by Tyler for tickets ",
+                "attachments": []
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "64360837-98fe-4239-a674-6833489946a0",
+            "preview": "198 split between Olga Tyler David and Diego, paid by Tyler for tickets "
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~696d370fcb24819f96afd6e67bf2d4f9",
+            "created_at": "2026-01-18T19:39:59.793474Z",
+            "updated_at": "2026-01-18T19:39:59.836695Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "d53c473c-baaa-4a26-9a3c-0e00c4f6d5dd",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1768765191.594431,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Logged ✅\n\n### 🧾 Expense recorded\n- **What:** Tickets  \n- **Total:** **198.00**  \n- **Paid by:** **Tyler**  \n- **Split equally between (4):** Olga, Tyler, David, Diego  \n\n### 💰 Split\n198.00 ÷ 4 = **49.50 each**\n\n### 💸 Who owes Tyler\n- **Olga → owes Tyler:** 49.50  \n- **David → owes Tyler:** 49.50  \n- **Diego → owes Tyler:** 49.50  \n- **Tyler:** paid 198.00, his share is 49.50, so he is **owed 148.50**\n\nReady for the next expense whenever 👍"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "sonic_classification_result": {
+                            "latency_ms": null,
+                            "simple_search_prob": null,
+                            "complex_search_prob": null,
+                            "no_search_prob": null,
+                            "search_complexity_decision": null,
+                            "search_decision": false,
+                            "simple_search_threshold": null,
+                            "complex_search_threshold": null,
+                            "no_search_threshold": null,
+                            "threshold_order": null,
+                            "classifier_config_name": "sonic_classifier_3cls_ev3",
+                            "classifier_config": {
+                                "model_name": "snc-pg-sw-3cls-ev3",
+                                "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+                                "classifier_config_name": "sonic_classifier_3cls_ev3",
+                                "model_config_name": "chatgpt_sonic_classifier_model_config",
+                                "disable_sonic_prefetch_classifier": true,
+                                "force_disabled_rate": 0,
+                                "force_enabled_rate": 0,
+                                "num_messages": 20,
+                                "only_user_messages": false,
+                                "remove_memory": true,
+                                "support_mm": true,
+                                "n_ctx": 2048,
+                                "max_action_length": 4,
+                                "dynamic_set_max_message_size": false,
+                                "max_message_tokens": 2000,
+                                "append_base_config": false,
+                                "no_search_token": "1",
+                                "simple_search_token": "7",
+                                "complex_search_token": "5",
+                                "simple_search_threshold": 0,
+                                "complex_search_threshold": 0.4,
+                                "no_search_threshold": 0.12,
+                                "prefetch_threshold": 0.55,
+                                "first_turn_prefetch_threshold": null,
+                                "force_search_first_turn_threshold": 1e-05,
+                                "threshold_order": [
+                                    "no_search",
+                                    "complex",
+                                    "simple"
+                                ],
+                                "passthrough_tool_calls": true,
+                                "passthrough_tool_name_exclusions": [
+                                    "genui"
+                                ],
+                                "timeout": 1
+                            },
+                            "classifier_snapshot_id": null,
+                            "decision_source": "mainline",
+                            "passthrough_tool_names": [
+                                "conversation_reader",
+                                "file_reader",
+                                "file_search",
+                                "image_gen",
+                                "post_reader",
+                                "profile",
+                                "react",
+                                "remain_quiet"
+                            ]
+                        },
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Logged ✅\n\n### 🧾 Expense recorded\n- **What:** Tickets  \n- **Total:** **198.00**  \n- **Pai...",
+            "model_slug": "gpt-5-2"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~6970132fc29c819f8f5901b00fb73c45",
+            "created_at": "2026-01-20T23:43:43.760127Z",
+            "updated_at": "2026-01-20T23:43:46.904560Z",
+            "role": "user",
+            "account_user_id": "user-HrtTt0evVbeJIgYUqIbVe2MM",
+            "content": {
+                "text": "Split this with Nick bruna Kalle and Olga",
+                "attachments": [
+                    {
+                        "type": "file",
+                        "file_id": "CalpicoFile_102a241b1a048191ab2c40a066160ba5",
+                        "file": {
+                            "id": "CalpicoFile_102a241b1a048191ab2c40a066160ba5",
+                            "file_id": "CalpicoFile_102a241b1a048191ab2c40a066160ba5",
+                            "status": "ROOM_PUBLISHED",
+                            "permission_set": {
+                                "permissions": {
+                                    "1|user-HrtTt0evVbeJIgYUqIbVe2MM": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    },
+                                    "9|69698a79ea88819eb2201c780ff81d4b": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    }
+                                },
+                                "version": 1
+                            },
+                            "download_url": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6InVzZXItSHJ0VHQwZXZWYmVKSWdZVXFJYlZlMk1NOmZpbGVfMDAwMDAwMDBiZDk4NzIyZmFlZTZkMjIxMTczOTgyODMiLCJ0cyI6IjIwNDc1IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiIyYTEwOTk0ZDIxNGRhYTY4MmYyNjg2MTM1YjAwMDU4OTdmZTUzZTg5YWNjMzBiNjQ0MTIzMjBlYjJjZDA1YTk0IiwidiI6IjAiLCJnaXptb19pZCI6bnVsbCwiY3MiOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+                            "mime_type": "image/jpeg",
+                            "image_metadata": {
+                                "width": 1542,
+                                "height": 2048
+                            },
+                            "name": "1000088802.jpg"
+                        }
+                    }
+                ]
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "df837953-9f07-41b4-a1b2-625849ea6970",
+            "preview": "Split this with Nick bruna Kalle and Olga"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~69712813564481a1b4ffd899d8ccefda",
+            "created_at": "2026-01-21T19:25:07.338119Z",
+            "updated_at": "2026-01-21T19:25:07.347960Z",
+            "role": "system",
+            "content": {
+                "type": "room_name_change",
+                "account_user_id": "user-HrtTt0evVbeJIgYUqIbVe2MM",
+                "text": "**David Mihal** renamed the group chat."
+            },
+            "preview": "David Mihal renamed the group chat."
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~6971284b0ce881919bd2e35c1d3e0d4c",
+            "created_at": "2026-01-21T19:26:03.050378Z",
+            "updated_at": "2026-01-21T19:26:08.876322Z",
+            "role": "user",
+            "account_user_id": "user-HrtTt0evVbeJIgYUqIbVe2MM",
+            "content": {
+                "text": "Here's two receipts split with me kalle and Olga paid by me",
+                "attachments": [
+                    {
+                        "type": "file",
+                        "file_id": "CalpicoFile_376f8ff2ad548191b6559330babfab88",
+                        "file": {
+                            "id": "CalpicoFile_376f8ff2ad548191b6559330babfab88",
+                            "file_id": "CalpicoFile_376f8ff2ad548191b6559330babfab88",
+                            "status": "ROOM_PUBLISHED",
+                            "permission_set": {
+                                "permissions": {
+                                    "1|user-HrtTt0evVbeJIgYUqIbVe2MM": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    },
+                                    "9|69698a79ea88819eb2201c780ff81d4b": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    }
+                                },
+                                "version": 1
+                            },
+                            "download_url": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6InVzZXItSHJ0VHQwZXZWYmVKSWdZVXFJYlZlMk1NOmZpbGVfMDAwMDAwMDAxZjZjNzFmODg1MjAyMGFlN2FjMzJiMmMiLCJ0cyI6IjIwNDc1IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiIxN2Y2ZjE5MWI3MWRiYzRjY2M1MjVjZGZkOWU4ODk5M2UwYTcxMTQyODg5ZjRlYWViMjRhOGE2YzUyNDRjZGQzIiwidiI6IjAiLCJnaXptb19pZCI6bnVsbCwiY3MiOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+                            "mime_type": "image/jpeg",
+                            "image_metadata": {
+                                "width": 1542,
+                                "height": 2048
+                            },
+                            "name": "1000089028.jpg"
+                        }
+                    },
+                    {
+                        "type": "file",
+                        "file_id": "CalpicoFile_bddabe1b3448819186f1aa9d884885e4",
+                        "file": {
+                            "id": "CalpicoFile_bddabe1b3448819186f1aa9d884885e4",
+                            "file_id": "CalpicoFile_bddabe1b3448819186f1aa9d884885e4",
+                            "status": "ROOM_PUBLISHED",
+                            "permission_set": {
+                                "permissions": {
+                                    "1|user-HrtTt0evVbeJIgYUqIbVe2MM": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    },
+                                    "9|69698a79ea88819eb2201c780ff81d4b": {
+                                        "capabilities": {
+                                            "can_read": true,
+                                            "can_view_config": true,
+                                            "can_write": true,
+                                            "can_delete": true,
+                                            "can_export": true,
+                                            "can_share": true
+                                        }
+                                    }
+                                },
+                                "version": 1
+                            },
+                            "download_url": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6InVzZXItSHJ0VHQwZXZWYmVKSWdZVXFJYlZlMk1NOmZpbGVfMDAwMDAwMDBiZWYwNzIzMGI2NTkyMWE4M2ZlMTYyZTAiLCJ0cyI6IjIwNDc1IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiJiZTA0YzIwNDIyOGE5NjZkN2I5NDNiNDlmOTc3OGZhNDg1MzZlOGE3NmU0YmQwMzgzMjZmNzU5NGM5Y2Q5Y2RkIiwidiI6IjAiLCJnaXptb19pZCI6bnVsbCwiY3MiOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+                            "mime_type": "image/jpeg",
+                            "image_metadata": {
+                                "width": 2048,
+                                "height": 1542
+                            },
+                            "name": "1000089015.jpg"
+                        }
+                    }
+                ]
+            },
+            "reactions": {},
+            "reply_to": null,
+            "deleted_at": null,
+            "inspector_url": null,
+            "request_id": "455b50bd-5ad1-469d-940c-c9e6bbe3a274",
+            "preview": "Here's two receipts split with me kalle and Olga paid by me"
+        },
+        {
+            "id": "69698a79ea88819eb2201c780ff81d4b~69698a79ea88819eb2201c780ff81d4b~CalpicoMessage~697128621058819ea4da4d900c1031e9",
+            "created_at": "2026-01-21T19:26:26.063810Z",
+            "updated_at": "2026-01-21T19:26:26.153513Z",
+            "role": "assistant",
+            "raw_messages": [
+                {
+                    "id": "7b5e3dc5-7d44-44e0-92aa-9ca89ef25d1d",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1769023566.219023,
+                    "update_time": null,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Got it — I’ll treat these as **two expenses**, both **paid by David**, split equally between **David, Kalle, and Olga**.\n\nFrom the receipts:\n\n---\n\n## 🧾 Expense 1 — Bike rental  \n**Total:** 54.00  \n**Paid by:** David  \n**Split between:** David, Kalle, Olga (3)\n\n**Split:** 54.00 ÷ 3 = **18.00 each**\n\n➡️ **Kalle owes David:** 18.00  \n➡️ **Olga owes David:** 18.00  \n\n---\n\n## 🧾 Expense 2 — Restaurant (Vista São Paulo)  \n**Total:** 740.15  \n**Paid by:** David  \n**Split between:** David, Kalle, Olga (3)\n\n740.15 ÷ 3 = **246.716…**\n\nTo keep cents clean, I’ll record:  \n- **David:** 246.71  \n- **Kalle:** 246.72  \n- **Olga:** 246.72  \n\n(so the total matches exactly)\n\n➡️ **Kalle owes David:** 246.72  \n➡️ **Olga owes David:** 246.72  \n\n---\n\n## 💸 New amounts owed to David from these two receipts\n- **Kalle → David:** 18.00 + 246.72 = **264.72**  \n- **Olga → David:** 18.00 + 246.72 = **264.72**\n\nBoth are now logged into the group ledger ✅  \nSend the next one whenever you’re ready."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "end_turn": true,
+                    "weight": 1.0,
+                    "metadata": {
+                        "sonic_classification_result": {
+                            "latency_ms": null,
+                            "simple_search_prob": null,
+                            "complex_search_prob": null,
+                            "no_search_prob": null,
+                            "search_complexity_decision": null,
+                            "search_decision": null,
+                            "simple_search_threshold": null,
+                            "complex_search_threshold": null,
+                            "no_search_threshold": null,
+                            "threshold_order": null,
+                            "classifier_config_name": "sonic_classifier_3cls_ev3",
+                            "classifier_config": {
+                                "model_name": "snc-pg-sw-3cls-ev3",
+                                "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+                                "classifier_config_name": "sonic_classifier_3cls_ev3",
+                                "model_config_name": "chatgpt_sonic_classifier_model_config",
+                                "disable_sonic_prefetch_classifier": true,
+                                "force_disabled_rate": 0,
+                                "force_enabled_rate": 0,
+                                "num_messages": 20,
+                                "only_user_messages": false,
+                                "remove_memory": true,
+                                "support_mm": true,
+                                "n_ctx": 2048,
+                                "max_action_length": 4,
+                                "dynamic_set_max_message_size": false,
+                                "max_message_tokens": 2000,
+                                "append_base_config": false,
+                                "no_search_token": "1",
+                                "simple_search_token": "7",
+                                "complex_search_token": "5",
+                                "simple_search_threshold": 0,
+                                "complex_search_threshold": 0.4,
+                                "no_search_threshold": 0.12,
+                                "prefetch_threshold": 0.55,
+                                "first_turn_prefetch_threshold": null,
+                                "force_search_first_turn_threshold": 1e-05,
+                                "threshold_order": [
+                                    "no_search",
+                                    "complex",
+                                    "simple"
+                                ],
+                                "passthrough_tool_calls": true,
+                                "passthrough_tool_name_exclusions": [
+                                    "genui"
+                                ],
+                                "timeout": 1
+                            },
+                            "classifier_snapshot_id": null,
+                            "decision_source": "mainline",
+                            "passthrough_tool_names": [
+                                "conversation_reader",
+                                "file_reader",
+                                "file_search",
+                                "image_gen",
+                                "post_reader",
+                                "profile",
+                                "react",
+                                "remain_quiet"
+                            ]
+                        },
+                        "citations": [],
+                        "content_references": [],
+                        "model_slug": "gpt-5-2"
+                    },
+                    "recipient": "all",
+                    "channel": "final"
+                }
+            ],
+            "reactions": {},
+            "reply_to": null,
+            "attachments": [],
+            "deleted_at": null,
+            "inspector_url": null,
+            "preview": "ChatGPT: Got it — I’ll treat these as **two expenses**, both **paid by David**, split equally bet...",
+            "model_slug": "gpt-5-2"
+        }
+    ],
+    "prev_cursor": null,
+    "next_cursor": null
+}
