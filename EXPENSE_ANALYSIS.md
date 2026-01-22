@@ -1,10 +1,11 @@
 # Brazil Trip Expense Analysis
 
 ## Summary
-- **Total Group Spend**: R$ 72,798.09 (merged & deduplicated)
+- **Total Group Spend**: R$ 103,665.09 (merged, deduplicated + Rio Airbnb)
   - Chat-ledger: R$ 32,530.72 (37 expenses)
   - Splitwise: R$ 40,267.37 (29 expenses after removing 4 duplicates)
-- **Total Expenses**: 66 (after deduplicating 4 confirmed duplicates)
+  - Rio Airbnb: R$ 30,867.00 (1 major expense, previously excluded)
+- **Total Expenses**: 67 (after deduplicating 4 confirmed duplicates, now with Rio Airbnb)
 - **Duplicates Removed**: 4 expenses (R$ 4,382.00) - kept chat-ledger versions
 - **Group Size**: 10 core + 4 extended (Hayley, Antonio, Alex, Bruna, Estella, Nick, David, Tyler, Joseph, Diego, + Kalle, Olga, Jade, Carol)
 - **Analysis Date**: End of trip (2025-12-28 to 2026-01-19)
@@ -53,8 +54,9 @@
 | 36 | Sushi dinner (São Paulo) | Alex | 2,952.20 | 8 (Bruna, Nick, Diego, David, Alex, Kalle, Olga, Tyler) | 369.03 | Extended group + Kalle, Olga |
 | 37 | Lunch (iFood) | David | 435.68 | 6 (David, Joseph, Diego, Antonio, Nick, Bruna) | 72.61 | Pro-rated fees by meal price |
 | 38 | Small dinner | Tyler | 150.00 | 3 (David, Hayley, Tyler) | 50.00 | **Intentional subset** |
+| 39 | **Rio Airbnb (6 nights)** | **Alex** | **30,867.00** | **8** (Alex 1.5x covers Estela; Nick 1.5x covers Bruna; Diego, David, Joseph, Antonio) | **Variable** | **Paid 2026-01-X. Major accommodation. Fair split with room/inconvenience adjustments** |
 
-**GRAND TOTAL: R$ 32,530.72**
+**GRAND TOTAL: R$ 103,665.09**
 
 ---
 
@@ -62,9 +64,9 @@
 
 | Person | Amount Paid (R$) | # of Expenses |
 |--------|----------------:|--------------|
+| **Alex** | 36,736.60 | 5 |
 | **Joseph (King Joseph)** | 8,931.22 | 6 |
 | **Diego** | 7,587.00 | 9 |
-| **Alex** | 5,869.60 | 4 |
 | **David** | 5,364.00 | 6 |
 | **Antonio** | 2,512.00 | 3 |
 | **Nick** | 1,870.00 | 1 |
@@ -72,13 +74,19 @@
 | **Hayley** | 196.90 | 1 |
 | **Bruna** | 0.00 | 0 |
 | **Tyler** | 150.00 | 1 |
-| **TOTAL** | **32,530.72** | **38** |
+| **TOTAL** | **63,547.72** | **39** |
 
 ---
 
 ## 📋 Per-Person Expense Breakdown
 
-### Joseph (King Joseph) — PAID R$ 11,691.83
+### Alex — PAID R$ 36,736.60
+- Owes/Owed: **Updated with Rio Airbnb**
+- Paid for: Rio Airbnb (#39, R$ 30,867)
+- Status: **PRIMARY CREDITOR** (paid largest amount for group)
+- Note: Covered Estela's Rio Airbnb share
+
+### Joseph (King Joseph) — PAID R$ 8,931.22
 - Owes/Owed: **To be calculated in final settlement**
 - Paid for: Wine (#1), Dinner (#2), Large Wine (#7), Beer (#8), Beach Jared Bali (#12), Movie groceries (#13), Gas (#19), Car rental (#20)
 - Status: **PRIMARY CREDITOR** (paid most for group)
